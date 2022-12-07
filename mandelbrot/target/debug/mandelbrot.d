@@ -1,0 +1,1 @@
+E:\Programming\Educational\ Content\RUST\Rust\ in\ Action\CH2\Mandelbrot-Set\mandelbrot\target\debug\mandelbrot.exe: E:\Programming\Educational\ Content\RUST\Rust\ in\ Action\CH2\Mandelbrot-Set\mandelbrot\src\main.rs
